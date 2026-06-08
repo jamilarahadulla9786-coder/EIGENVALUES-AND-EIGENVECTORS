@@ -6,8 +6,11 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 1.Start.
+
 2.Import the required library (numpy).
+
 3.Define the square matrix A.
+
 4.Compute eigenvalues and eigenvectors using the eigenvalue decomposition function:
 
 ## Program:
